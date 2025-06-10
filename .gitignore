@@ -35,3 +35,4 @@ firebase.json # You might want to include this if you want to share Firebase hos
 
 # Logs
 *.log
+/package-lock.json
